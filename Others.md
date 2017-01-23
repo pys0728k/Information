@@ -10,7 +10,7 @@
 > $ sudo apt-get install sublime-text-installer
 
 * Sublime text는 command창에서 실행할 수 없으나, symlink를 생성하여 command창에서 명령어처럼 실행 할 수 있도록 하는 방법
-> $ sudo ln -s /opt/sublime_text/sublime_text /usr/local/bin/__*sublime*__
+> $ sudo ln -s /opt/sublime_text/sublime_text /usr/local/bin/'__*sublime*__'
 
 ## Codecademy
 Github에서부터 Java, Python, SQL등의 많은 툴들을 직접 배울 수 있는 웹사이트.
