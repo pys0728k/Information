@@ -5,8 +5,8 @@
 Github은 분산 버전 관리 툴인 깃(Git)을 사용하는 프로젝트를 지원하는 웹호스팅 서비스이다.
 
 ## Github 용어 설명
-* Commit : 
-* Staging area : 
+ * Commit : 
+ * Staging area : 
 
 ## Github 설치 (Ubuntu)
  > $ sudo apt-get install git-core
@@ -19,13 +19,13 @@ Github은 분산 버전 관리 툴인 깃(Git)을 사용하는 프로젝트를 �
  > $ git clone __*Repository URL*__
 
 ** 3. 프로젝트를 수정하였다면, 다음 명령들을 순서대로 진행한다. **
- * Commit 상태 확인
+ * Commit 상태 확인.
  > $ git status
- * Commit에 추가
+ * Commit에 추가.
  > $ git add .
- * Commit 실행
+ * Commit 실행.
  > $ git commit -m "__*Message*__"
- * 서버에 업로드
+ * 서버에 업로드.
  > $ git push __*Repository Name*__ master
 
 ** 4. 추가적인 유용한 명령어들. **
